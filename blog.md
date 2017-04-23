@@ -3,7 +3,6 @@ layout: page
 title: Research and Nutrition Discussion Board
 permalink: /blog/
 ---
-
 From time to time, I will be updating this page with articles and advice pertaining to nutrition, longevity, and more.
 <br><br>
 As posts are made, they will be ordered from most recent to least recent.
