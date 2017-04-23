@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Frances Siver - MS, RDN, LDN, CLT
 email: rdn@fcsiver.com
@@ -20,3 +21,7 @@ excerpt_separator: "<!--more-->"
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+=======
+baseurl:
+theme: jekyll-theme-time-machine
+>>>>>>> origin/master
